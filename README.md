@@ -36,7 +36,7 @@ This application serves as a simple e-commerce store where you can manage produc
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/ecommerce-store.git
+   git clone https://github.com/azka1811/node-redis-connection-ecommerce.git
    cd ecommerce-store
    ```
 
